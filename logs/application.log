@@ -1,0 +1,342 @@
+[INFO ] 2025-05-09 12:10:08.107 [main] DietRecipeScraper - Processing Page 1
+[INFO ] 2025-05-09 12:10:13.528 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/vegetable-manchurian--easy-chinese-recipe--4137r
+[INFO ] 2025-05-09 12:10:16.270 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/pav-bhaji-2813r
+[INFO ] 2025-05-09 12:10:19.967 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/chole-bhature-2810r
+[INFO ] 2025-05-09 12:10:24.271 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/palak-paneer-how-to-make-homemade-palak-paneer-recipe-30899r
+[INFO ] 2025-05-09 12:10:26.844 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/veg-frankie-mumbai-roadside-recipe-33438r
+[INFO ] 2025-05-09 12:10:29.541 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/coconut-chutney---idlis-and-dosas-1653r
+[INFO ] 2025-05-09 12:10:32.240 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/sambar-recipe-south-indian-homemade-sambar-recipe-1557r
+[INFO ] 2025-05-09 12:10:35.147 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/pav-bhaji--mumbai-roadside-recipes--33423r
+[WARN ] 2025-05-09 12:10:48.826 [main] DietRecipeScraper - ❌ Recipe already exists in table (lf_recipes): https://www.tarladalal.com/dal-makhani-30900r
+[INFO ] 2025-05-09 12:10:52.795 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/dal-baati-churma-3645r
+[INFO ] 2025-05-09 12:10:56.410 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/moong-dal-halwa-3914r
+[INFO ] 2025-05-09 12:11:00.271 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/pani-puri-paani-puri-golgappa-recipe-2806r
+[INFO ] 2025-05-09 12:11:02.631 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/medu-vada--south-indian-recipe-32683r
+[INFO ] 2025-05-09 12:11:05.601 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/ragda-patties-chaat-ragda-pattice-recipe-2818r
+[INFO ] 2025-05-09 12:11:09.063 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/vegetable-biryani---desi-khana-1551r
+[INFO ] 2025-05-09 12:11:12.515 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/chilli-paneer-4127r
+[INFO ] 2025-05-09 12:11:16.538 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/pasta-in-red-sauce-37563r
+[INFO ] 2025-05-09 12:11:20.640 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/vada-pav-2811r
+[INFO ] 2025-05-09 12:11:24.154 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/chawli-bhaji-6409r
+[INFO ] 2025-05-09 12:11:27.378 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/eggless-sponge-cake-108r
+[INFO ] 2025-05-09 12:11:30.854 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/doodhi-muthia--gujarat-recipe-553r
+[INFO ] 2025-05-09 12:11:34.913 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/lemon-and-coriander-soup--vitamin-c-rich-4622r
+[INFO ] 2025-05-09 12:11:37.805 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/burmese-khowsuey-4953r
+[INFO ] 2025-05-09 12:11:40.880 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/dal-khichdi-39570r
+[INFO ] 2025-05-09 12:11:43.432 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/spring-roll-wrappers-1356r
+[INFO ] 2025-05-09 12:12:07.270 [main] DietRecipeScraper - ✔️ Stored (LCHF): Creamy Almond Soup recipe, Soup Recipes | Salad Recipes
+[INFO ] 2025-05-09 12:12:10.485 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/dal-dhokli--gujarat-recipe-578r
+[INFO ] 2025-05-09 12:12:12.800 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/tahini-dip-531r
+[INFO ] 2025-05-09 12:12:15.495 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/potato-bhakarwadi-523r
+[INFO ] 2025-05-09 12:12:21.605 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/lentil-and-vegetable-broth-one-dish-meal-43r
+[INFO ] 2025-05-09 12:12:24.639 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/rice-and-cheese-balls-524r
+[INFO ] 2025-05-09 12:12:27.442 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/methi-thepla-gujarat-methi-thepla-recipe-39833r
+[INFO ] 2025-05-09 12:12:30.123 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/rava-dosa-how-to-make-rava-dosa-32837r
+[INFO ] 2025-05-09 12:12:33.053 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/oats-and-vegetable-broth-7440r
+[INFO ] 2025-05-09 12:12:35.733 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/medu-vada--south-indian-recipe-32683r
+[INFO ] 2025-05-09 12:12:39.078 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/carrot-and-pineapple-salad-1772r
+[INFO ] 2025-05-09 12:12:39.085 [main] DietRecipeScraper - Processing Page 2
+[INFO ] 2025-05-09 12:12:44.517 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/rava-sheera-sooji-ka-halwa-how-to-make-sooji-halwa-33448r
+[INFO ] 2025-05-09 12:12:46.678 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/moong-dal-kachori-3862r
+[INFO ] 2025-05-09 12:12:49.176 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/dum-aloo-popular-restaurant-style-punjabi-dum-aloo-recipe-33534r
+[INFO ] 2025-05-09 12:12:52.070 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/mixed-dal-handvo--gujarat-recipe-583r
+[INFO ] 2025-05-09 12:12:54.629 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/rice-appe--how-to-make-rice-appe--32847r
+[INFO ] 2025-05-09 12:12:57.537 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/tandoori-paneer-tikka-32950r
+[INFO ] 2025-05-09 12:13:01.044 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/dabeli--mumbai-roadside-recipes--33401r
+[INFO ] 2025-05-09 12:13:04.432 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/rich-vanilla-sponge-cake-using-eggs-33918r
+[INFO ] 2025-05-09 12:13:18.706 [main] DietRecipeScraper - ✔️ Stored (LFV): dal fry | Punjabi dal fry | dhaba style dal fry | Indian dal curry soup |
+[INFO ] 2025-05-09 12:13:18.706 [main] DietRecipeScraper - ✔️ Stored (LF): dal fry | Punjabi dal fry | dhaba style dal fry | Indian dal curry soup |
+[INFO ] 2025-05-09 12:13:22.186 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/dal-dhokli--gujarat-recipe-578r
+[INFO ] 2025-05-09 12:13:24.775 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/spring-rolls-chinese-veg-spring-roll-recipe-313r
+[INFO ] 2025-05-09 12:13:28.944 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/gujarat-kadhi-106r
+[INFO ] 2025-05-09 12:13:33.259 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/nylon-khaman-dhokla-gujarat-recipe-547r
+[INFO ] 2025-05-09 12:13:36.512 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/aloo-paratha--punjabi-aloo-paratha-recipe-37300r
+[INFO ] 2025-05-09 12:13:39.316 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/chai-ka-masala-chai-powder-tea-masala-indian-masala-tea-powder-4217r
+[INFO ] 2025-05-09 12:13:42.225 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/misal-pav-or-how-to-make-misal-pav-37212r
+[INFO ] 2025-05-09 12:13:44.921 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/gobi-paratha--punjabi-gobi-paratha-30915r
+[INFO ] 2025-05-09 12:13:47.797 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/aloo-methi-22789r
+[INFO ] 2025-05-09 12:13:51.716 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/curd-rice-south-indian-curd-rice-recipe-32893r
+[INFO ] 2025-05-09 12:13:55.143 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/paneer-bhurji-190r
+[INFO ] 2025-05-09 12:13:58.190 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/methi-mutter-malai-punjabi-methi-matar-malai-recipe-275r
+[INFO ] 2025-05-09 12:14:01.155 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/dosa---south-indian-recipe-32927r
+[INFO ] 2025-05-09 12:14:04.934 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/eggless-chocolate-cake-in-pressure-cooker-pressure-cooker-cake-33377r
+[INFO ] 2025-05-09 12:14:08.110 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/modak-steamed-modak--ukadiche-modak-for-ganesh-chaturthi-4950r
+[INFO ] 2025-05-09 12:14:10.621 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/spring-roll-wrappers-1356r
+[WARN ] 2025-05-09 12:14:33.368 [main] DietRecipeScraper - ❌ Recipe already exists in table (lchf_recipes): https://www.tarladalal.com/creamy-almond-soup-353r
+[INFO ] 2025-05-09 12:14:36.385 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/dal-dhokli--gujarat-recipe-578r
+[INFO ] 2025-05-09 12:14:39.572 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/tahini-dip-531r
+[INFO ] 2025-05-09 12:14:41.793 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/potato-bhakarwadi-523r
+[INFO ] 2025-05-09 12:14:45.045 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/lentil-and-vegetable-broth-one-dish-meal-43r
+[INFO ] 2025-05-09 12:14:48.386 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/rice-and-cheese-balls-524r
+[INFO ] 2025-05-09 12:14:51.118 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/methi-thepla-gujarat-methi-thepla-recipe-39833r
+[INFO ] 2025-05-09 12:14:54.505 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/rava-dosa-how-to-make-rava-dosa-32837r
+[INFO ] 2025-05-09 12:14:58.322 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/oats-and-vegetable-broth-7440r
+[INFO ] 2025-05-09 12:15:01.778 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/medu-vada--south-indian-recipe-32683r
+[INFO ] 2025-05-09 12:15:04.397 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/carrot-and-pineapple-salad-1772r
+[INFO ] 2025-05-09 12:15:04.398 [main] DietRecipeScraper - Processing Page 3
+[INFO ] 2025-05-09 12:15:08.765 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/nacho-chips-2868r
+[INFO ] 2025-05-09 12:15:11.782 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/russian-salad-2136r
+[INFO ] 2025-05-09 12:15:14.736 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/thepla--gujarat-recipe-630r
+[INFO ] 2025-05-09 12:15:17.421 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/thai-green-curry-veg-thai-green-curry-470r
+[INFO ] 2025-05-09 12:15:19.822 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/gajar-ka-halwa--quick-gajar-halwa-recipe-2026r
+[INFO ] 2025-05-09 12:15:22.552 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/sambar--sambhar-idlis-and-dosas-1663r
+[INFO ] 2025-05-09 12:15:25.552 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/mutter-paneer-butter-masala-4322r
+[INFO ] 2025-05-09 12:15:28.840 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/how-to-make-a-perfect-dosa-batter-40481r
+[INFO ] 2025-05-09 12:15:32.033 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/oondhiya-undhiyu-gujarat-undhiyu-recipe-602r
+[INFO ] 2025-05-09 12:15:35.668 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/kadai-paneer--popular-restaurant-style-kadai-paneer-36379r
+[INFO ] 2025-05-09 12:15:38.267 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/bhel-puri-mumbai-roadside-bhel-puri-2795r
+[INFO ] 2025-05-09 12:15:40.898 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/aloo-gobi-aloo-gobhi-recipe-22792r
+[INFO ] 2025-05-09 12:15:43.562 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/sweet-corn-and-vegetable-soup-45r
+[INFO ] 2025-05-09 12:15:47.315 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/vegetable-fried-rice--easy-chinese-cooking--4165r
+[INFO ] 2025-05-09 12:15:50.086 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/besan-ladoo-indian-mithai-2034r
+[INFO ] 2025-05-09 12:15:53.394 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/malai-kofta-2174r
+[INFO ] 2025-05-09 12:15:57.569 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/idli-1652r
+[INFO ] 2025-05-09 12:16:00.589 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/kadai-paneer-subzi-58r
+[INFO ] 2025-05-09 12:16:03.231 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/dal-tadka-punjabi-dal-tadka-30903r
+[INFO ] 2025-05-09 12:16:06.178 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/khaman-dhokla-soft-gujarat-khaman-dhokla-33269r
+[ERROR] 2025-05-09 12:16:29.347 [main] DietRecipeScraper - ⚠ Error: https://www.tarladalal.com/spicy-mixed-dal-60r
+[INFO ] 2025-05-09 12:16:33.912 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/badam-ka-halwa-3915r
+[INFO ] 2025-05-09 12:16:39.221 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/lachha-paratha-how-to-make-lachha-paratha-181r
+[INFO ] 2025-05-09 12:16:42.322 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/how-to-boil-potatoes-in-a-microwave-22482r
+[INFO ] 2025-05-09 12:16:46.239 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/spring-roll-wrappers-1356r
+[WARN ] 2025-05-09 12:17:12.773 [main] DietRecipeScraper - ❌ Recipe already exists in table (lchf_recipes): https://www.tarladalal.com/creamy-almond-soup-353r
+[INFO ] 2025-05-09 12:17:16.247 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/dal-dhokli--gujarat-recipe-578r
+[INFO ] 2025-05-09 12:17:19.618 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/tahini-dip-531r
+[INFO ] 2025-05-09 12:17:22.316 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/potato-bhakarwadi-523r
+[INFO ] 2025-05-09 12:17:25.155 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/lentil-and-vegetable-broth-one-dish-meal-43r
+[INFO ] 2025-05-09 12:17:28.134 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/rice-and-cheese-balls-524r
+[INFO ] 2025-05-09 12:17:32.352 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/methi-thepla-gujarat-methi-thepla-recipe-39833r
+[INFO ] 2025-05-09 12:17:37.003 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/rava-dosa-how-to-make-rava-dosa-32837r
+[INFO ] 2025-05-09 12:17:40.111 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/oats-and-vegetable-broth-7440r
+[INFO ] 2025-05-09 12:17:45.481 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/medu-vada--south-indian-recipe-32683r
+[INFO ] 2025-05-09 12:17:50.278 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/carrot-and-pineapple-salad-1772r
+[INFO ] 2025-05-09 12:17:50.289 [main] DietRecipeScraper - Processing Page 4
+[INFO ] 2025-05-09 12:17:58.174 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/low-calorie-dal-makhani-3570r
+[INFO ] 2025-05-09 12:18:02.519 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/rava-dhokla-semolina-dhokla-suji-dhokla-40930r
+[INFO ] 2025-05-09 12:18:16.668 [main] DietRecipeScraper - ✔️ Stored (LF): moong dal khichdi | Gujarati moong dal khichdi | how to make yellow moong dal khichdi
+[INFO ] 2025-05-09 12:18:20.394 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/batata-poha-quick-kanda-batata-poha-aloo-poha-38677r
+[INFO ] 2025-05-09 12:18:23.330 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/lapsi-fada-ni-lapsi-gujarat-broken-wheat-dessert-recipe-632r
+[INFO ] 2025-05-09 12:18:26.239 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/chinese-white-sauce-4188r
+[INFO ] 2025-05-09 12:18:29.184 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/khandvi-gujarat-snack-recipe-557r
+[INFO ] 2025-05-09 12:18:31.487 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/paneer-parathas-punjabi-paneer-paratha-30912r
+[INFO ] 2025-05-09 12:18:35.324 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/rice-kheer-2040r
+[INFO ] 2025-05-09 12:18:38.138 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/vegetable-mayonnaise-sandwich-5234r
+[INFO ] 2025-05-09 12:18:42.269 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/basic-pizza-base-how-to-make-basic-pizza-base-recipe-1806r
+[INFO ] 2025-05-09 12:18:45.485 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/sarson-ka-saag-punjabi-sarson-ka-saag-recipe-32800r
+[INFO ] 2025-05-09 12:18:48.443 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/garlic-pickle--achaar-recipe--3435r
+[INFO ] 2025-05-09 12:18:50.930 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/aloo-paratha-how-to-make-aloo-paratha-2172r
+[INFO ] 2025-05-09 12:18:53.250 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/rasgulla-mithai-bengali-style-rasgulla-2005r
+[INFO ] 2025-05-09 12:18:55.996 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/microwave-chocolate-sponge-cake-in-5-minutes-indian-style-4944r
+[INFO ] 2025-05-09 12:18:59.144 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/biryani-masala-42034r
+[INFO ] 2025-05-09 12:19:02.050 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/paneer-pakoda-punjabi-paneer-pakora-recipe-30874r
+[INFO ] 2025-05-09 12:19:04.730 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/quick-maharashtrian-chilla-1716r
+[INFO ] 2025-05-09 12:19:07.102 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/green-chutney-chaat-2797r
+[INFO ] 2025-05-09 12:19:10.908 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/how-to-cook-pasta-3249r
+[INFO ] 2025-05-09 12:19:13.614 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/aloo-palak-30887r
+[INFO ] 2025-05-09 12:19:16.998 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/aloo-tikki-punjabi-aloo-tikki-32745r
+[INFO ] 2025-05-09 12:19:19.893 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/eggless-vanilla-cake-using-condensed-milk--cakes-and-pastries-33592r
+[INFO ] 2025-05-09 12:19:22.725 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/spring-roll-wrappers-1356r
+[WARN ] 2025-05-09 12:19:45.751 [main] DietRecipeScraper - ❌ Recipe already exists in table (lchf_recipes): https://www.tarladalal.com/creamy-almond-soup-353r
+[INFO ] 2025-05-09 12:19:48.554 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/dal-dhokli--gujarat-recipe-578r
+[INFO ] 2025-05-09 12:19:51.313 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/tahini-dip-531r
+[INFO ] 2025-05-09 12:19:53.896 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/potato-bhakarwadi-523r
+[INFO ] 2025-05-09 12:19:57.001 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/lentil-and-vegetable-broth-one-dish-meal-43r
+[INFO ] 2025-05-09 12:19:59.491 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/rice-and-cheese-balls-524r
+[INFO ] 2025-05-09 12:20:02.431 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/methi-thepla-gujarat-methi-thepla-recipe-39833r
+[INFO ] 2025-05-09 12:20:04.839 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/rava-dosa-how-to-make-rava-dosa-32837r
+[INFO ] 2025-05-09 12:20:07.753 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/oats-and-vegetable-broth-7440r
+[INFO ] 2025-05-09 12:20:11.515 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/medu-vada--south-indian-recipe-32683r
+[INFO ] 2025-05-09 12:20:14.508 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/carrot-and-pineapple-salad-1772r
+[INFO ] 2025-05-09 12:20:14.515 [main] DietRecipeScraper - Processing Page 5
+[INFO ] 2025-05-09 12:20:19.280 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/pressure-cooker-chocolate-cake-31229r
+[INFO ] 2025-05-09 12:20:22.449 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/pani-puri-mumbai-roadside-pani-puri-golgappa-33408r
+[INFO ] 2025-05-09 12:20:25.201 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/veg-momos-indian-vegetable-momos-22253r
+[INFO ] 2025-05-09 12:20:28.634 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/schezuan-fried-rice-schezwan-fried-rice-4166r
+[INFO ] 2025-05-09 12:20:31.354 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/malai-kofta-curry-creamy-kofta-curry-255r
+[INFO ] 2025-05-09 12:20:34.246 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/amla-murabba-3426r
+[ERROR] 2025-05-09 12:20:45.447 [main] DietRecipeScraper - ⚠ Error: https://www.tarladalal.com/kashmiri-kahwa-kashmiri-tea-4219r
+[INFO ] 2025-05-09 12:20:50.383 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/rava-dosa-onion-rava-dosa-169r
+[INFO ] 2025-05-09 12:20:53.212 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/appam--how-to-make-appam--32844r
+[INFO ] 2025-05-09 12:20:55.651 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/rajma-chawal-punjabi-rajma-chawal-4951r
+[INFO ] 2025-05-09 12:20:58.481 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/aloo-chaat--mumbai-roadside-recipes--33441r
+[INFO ] 2025-05-09 12:21:01.701 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/malai-kulfi-4005r
+[INFO ] 2025-05-09 12:21:04.796 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/moong-dal-dhokla-2874r
+[INFO ] 2025-05-09 12:21:08.301 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/golpapdi-gujarat-gol-papdi-recipe-636r
+[INFO ] 2025-05-09 12:21:11.807 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/burrito-bowl-40598r
+[INFO ] 2025-05-09 12:21:14.570 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/rajasthani-pakoda-kadhi-3882r
+[INFO ] 2025-05-09 12:21:18.034 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/american-chop-suey--easy-chinese-recipes-4161r
+[INFO ] 2025-05-09 12:21:20.487 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/upma--quick-upma-recipe-breakfast-upma-38658r
+[INFO ] 2025-05-09 12:21:23.479 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/khatta-dhokla-gujarat-recipe-546r
+[INFO ] 2025-05-09 12:21:26.447 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/til-laddu-til-ke-ladoo-til-gud-ladoo-recipe-5016r
+[INFO ] 2025-05-09 12:21:29.182 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/puran-poli--gujarat-recipe-637r
+[INFO ] 2025-05-09 12:21:32.408 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/mohanthal-traditional-gujarat-mohanthal-mithai-2047r
+[INFO ] 2025-05-09 12:21:46.830 [main] DietRecipeScraper - ✔️ Stored (LFV): karela juice recipe for diabetics | bitter gourd juice for weight loss, blood pressure, glowing skin | healthy karela juice
+[INFO ] 2025-05-09 12:21:46.831 [main] DietRecipeScraper - ✔️ Stored (LF): karela juice recipe for diabetics | bitter gourd juice for weight loss, blood pressure, glowing skin | healthy karela juice
+[INFO ] 2025-05-09 12:21:50.184 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/sooji-idli--suji-idli-1384r
+[INFO ] 2025-05-09 12:21:52.500 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/spring-roll-wrappers-1356r
+[WARN ] 2025-05-09 12:22:15.286 [main] DietRecipeScraper - ❌ Recipe already exists in table (lchf_recipes): https://www.tarladalal.com/creamy-almond-soup-353r
+[INFO ] 2025-05-09 12:22:21.155 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/dal-dhokli--gujarat-recipe-578r
+[INFO ] 2025-05-09 12:22:23.890 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/tahini-dip-531r
+[INFO ] 2025-05-09 12:22:26.707 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/potato-bhakarwadi-523r
+[INFO ] 2025-05-09 12:22:30.461 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/lentil-and-vegetable-broth-one-dish-meal-43r
+[INFO ] 2025-05-09 12:22:37.059 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/rice-and-cheese-balls-524r
+[INFO ] 2025-05-09 12:22:41.067 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/methi-thepla-gujarat-methi-thepla-recipe-39833r
+[INFO ] 2025-05-09 12:22:45.379 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/rava-dosa-how-to-make-rava-dosa-32837r
+[INFO ] 2025-05-09 12:22:49.202 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/oats-and-vegetable-broth-7440r
+[INFO ] 2025-05-09 12:22:53.276 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/medu-vada--south-indian-recipe-32683r
+[INFO ] 2025-05-09 12:22:56.451 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/carrot-and-pineapple-salad-1772r
+[INFO ] 2025-05-09 12:22:56.459 [main] DietRecipeScraper - Processing Page 6
+[INFO ] 2025-05-09 12:23:01.498 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/onion-and-karela-sabzi-7452r
+[INFO ] 2025-05-09 12:23:04.732 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/cheese-corn-balls-30981r
+[INFO ] 2025-05-09 12:23:07.750 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/peri-peri-masala-40207r
+[INFO ] 2025-05-09 12:23:11.534 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/khajur-imli-ki-chutney-sweet-tamarind-chutney-2796r
+[INFO ] 2025-05-09 12:23:14.552 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/aloo-frankie---wraps-and-rolls-32655r
+[INFO ] 2025-05-09 12:23:28.483 [main] DietRecipeScraper - ✔️ Stored (LFV): energy chia seed drink recipe | chia seed drink for weight loss | chia seed drink with lime, honey
+[INFO ] 2025-05-09 12:23:28.502 [main] DietRecipeScraper - ✔️ Stored (LCHF): energy chia seed drink recipe | chia seed drink for weight loss | chia seed drink with lime, honey
+[INFO ] 2025-05-09 12:23:28.504 [main] DietRecipeScraper - ✔️ Stored (LF): energy chia seed drink recipe | chia seed drink for weight loss | chia seed drink with lime, honey
+[INFO ] 2025-05-09 12:23:35.810 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/idli--how-to-make-idli--32833r
+[INFO ] 2025-05-09 12:23:39.390 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/manchow-soup-chinese-veg-manchow-soup-302r
+[INFO ] 2025-05-09 12:23:43.295 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/achari-baingan-30888r
+[INFO ] 2025-05-09 12:23:47.984 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/quick-rava-idli--south-indian-recipes-32608r
+[INFO ] 2025-05-09 12:23:52.080 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/pyaaz-ki-kachori-3636r
+[INFO ] 2025-05-09 12:23:56.156 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/gujarat-dal--gujarat-recipe-612r
+[INFO ] 2025-05-09 12:23:59.440 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/masale-wali-turai-turai-ki-sabzi-6434r
+[INFO ] 2025-05-09 12:24:03.977 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/paatra--gujarat-recipe-552r
+[INFO ] 2025-05-09 12:24:07.232 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/eggless-chocolate-brownie-indian-style-4945r
+[INFO ] 2025-05-09 12:24:10.085 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/broken-wheat-upma-healthy-dalia-upma-4650r
+[INFO ] 2025-05-09 12:24:25.894 [main] DietRecipeScraper - ✔️ Stored (LFV): how to eat flaxseeds | health benefits | flaxseeds mukhwas | flax seed mukhwas | healthy mukhwas |
+[INFO ] 2025-05-09 12:24:25.905 [main] DietRecipeScraper - ✔️ Stored (LCHF): how to eat flaxseeds | health benefits | flaxseeds mukhwas | flax seed mukhwas | healthy mukhwas |
+[INFO ] 2025-05-09 12:24:25.905 [main] DietRecipeScraper - ✔️ Stored (LF): how to eat flaxseeds | health benefits | flaxseeds mukhwas | flax seed mukhwas | healthy mukhwas |
+[INFO ] 2025-05-09 12:24:28.906 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/atte-ka-malpua-3911r
+[INFO ] 2025-05-09 12:24:31.345 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/patra-gujarat-patra-alu-vadi-33322r
+[INFO ] 2025-05-09 12:24:35.221 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/pressure-cooker-veg-pulao-veg-pulao-in-pressure-cooker-1745r
+[INFO ] 2025-05-09 12:24:50.191 [main] DietRecipeScraper - ✔️ Stored (LCHF): ginger lemon drink recipe | ginger lemon water for weight loss, detox and anorexia | Indian adrak lemon water
+[INFO ] 2025-05-09 12:24:53.404 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/dahi-vadas-dahi-bhalla-north-indian-chaat-recipe-2816r
+[INFO ] 2025-05-09 12:24:56.070 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/mexican-tacos-vegetarian-tacos-recipe-2442r
+[INFO ] 2025-05-09 12:24:58.818 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/appam-appam-kerala-recipe-193r
+[INFO ] 2025-05-09 12:25:01.001 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/spring-roll-wrappers-1356r
+[WARN ] 2025-05-09 12:25:23.449 [main] DietRecipeScraper - ❌ Recipe already exists in table (lchf_recipes): https://www.tarladalal.com/creamy-almond-soup-353r
+[INFO ] 2025-05-09 12:25:27.097 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/dal-dhokli--gujarat-recipe-578r
+[INFO ] 2025-05-09 12:25:30.280 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/tahini-dip-531r
+[INFO ] 2025-05-09 12:25:33.009 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/potato-bhakarwadi-523r
+[INFO ] 2025-05-09 12:25:35.960 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/lentil-and-vegetable-broth-one-dish-meal-43r
+[INFO ] 2025-05-09 12:25:38.628 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/rice-and-cheese-balls-524r
+[INFO ] 2025-05-09 12:25:41.236 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/methi-thepla-gujarat-methi-thepla-recipe-39833r
+[INFO ] 2025-05-09 12:25:43.855 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/rava-dosa-how-to-make-rava-dosa-32837r
+[INFO ] 2025-05-09 12:25:46.509 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/oats-and-vegetable-broth-7440r
+[INFO ] 2025-05-09 12:25:50.049 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/medu-vada--south-indian-recipe-32683r
+[INFO ] 2025-05-09 12:25:52.487 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/carrot-and-pineapple-salad-1772r
+[INFO ] 2025-05-09 12:25:52.493 [main] DietRecipeScraper - Processing Page 7
+[INFO ] 2025-05-09 12:25:58.629 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/quick-sandwich-recipe-veg-tawa-sandwich-recipe-42099r
+[INFO ] 2025-05-09 12:26:01.635 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/bajra-roti-3892r
+[INFO ] 2025-05-09 12:26:04.213 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/sweet-lemon-pickle-nimboo-ka-achar-no-oil-lemon-pickle-3420r
+[INFO ] 2025-05-09 12:26:07.092 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/dal-pakwan-sindhi-dal-pakwan-breakfast-recipe-2827r
+[INFO ] 2025-05-09 12:26:09.416 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/basundi--gujarat-recipe-recipe---how-to-make-basundi-633r
+[INFO ] 2025-05-09 12:26:11.589 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/amla-pickle-amla-achar-gooseberry-pickle-3437r
+[INFO ] 2025-05-09 12:26:14.158 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/restaurant-style-palak-paneer-healthy-palak-paneer-22796r
+[INFO ] 2025-05-09 12:26:16.506 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/eggless-molten-lava-cake-36042r
+[INFO ] 2025-05-09 12:26:18.768 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/tomato-rice--south-indian-recipes--32889r
+[INFO ] 2025-05-09 12:26:21.212 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/khasta-kachori-chaat-2815r
+[INFO ] 2025-05-09 12:26:24.190 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/coconut-and-rava-ladoo---laddu-36287r
+[INFO ] 2025-05-09 12:26:26.573 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/masala-bharwan-karela-30883r
+[INFO ] 2025-05-09 12:26:29.132 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/baingan-bharta-veg-punjabi-baingan-bharta-recipe-30886r
+[INFO ] 2025-05-09 12:26:31.747 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/tava-pulao-tawa-pulao-recipe-33427r
+[INFO ] 2025-05-09 12:26:34.589 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/samosa-or-how-to-make-samosa-recipe-37441r
+[INFO ] 2025-05-09 12:26:37.806 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/hakka-noodles--chinese-hakka-noodle-recipe-22756r
+[INFO ] 2025-05-09 12:26:41.693 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/methi-mutter-malai-4241r
+[INFO ] 2025-05-09 12:26:45.090 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/achari-paneer-1736r
+[INFO ] 2025-05-09 12:26:47.810 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/cream-of-tomato-soup-indian-style-4082r
+[INFO ] 2025-05-09 12:26:50.646 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/rajma-curry--punjabi-rajma-masala-recipe-1539r
+[INFO ] 2025-05-09 12:26:53.454 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/panchamrut-panchamrit-41342r
+[INFO ] 2025-05-09 12:26:56.653 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/cream-of-spinach-soup-palak-soup-36684r
+[INFO ] 2025-05-09 12:26:59.051 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/kathal-ki-subzi-jack-fruit-curry-4316r
+[INFO ] 2025-05-09 12:27:01.563 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/mooli-paratha-punjabi-radish-paratha-4669r
+[INFO ] 2025-05-09 12:27:04.508 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/spring-roll-wrappers-1356r
+[WARN ] 2025-05-09 12:27:27.506 [main] DietRecipeScraper - ❌ Recipe already exists in table (lchf_recipes): https://www.tarladalal.com/creamy-almond-soup-353r
+[INFO ] 2025-05-09 12:27:30.939 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/dal-dhokli--gujarat-recipe-578r
+[INFO ] 2025-05-09 12:27:33.680 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/tahini-dip-531r
+[INFO ] 2025-05-09 12:27:35.966 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/potato-bhakarwadi-523r
+[INFO ] 2025-05-09 12:27:38.615 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/lentil-and-vegetable-broth-one-dish-meal-43r
+[INFO ] 2025-05-09 12:27:41.009 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/rice-and-cheese-balls-524r
+[INFO ] 2025-05-09 12:27:43.959 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/methi-thepla-gujarat-methi-thepla-recipe-39833r
+[INFO ] 2025-05-09 12:27:47.062 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/rava-dosa-how-to-make-rava-dosa-32837r
+[INFO ] 2025-05-09 12:27:49.308 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/oats-and-vegetable-broth-7440r
+[INFO ] 2025-05-09 12:27:51.614 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/medu-vada--south-indian-recipe-32683r
+[INFO ] 2025-05-09 12:27:54.208 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/carrot-and-pineapple-salad-1772r
+[INFO ] 2025-05-09 12:27:54.212 [main] DietRecipeScraper - Processing Page 8
+[INFO ] 2025-05-09 12:27:59.015 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/oats-upma---breakfast-recipes-38987r
+[INFO ] 2025-05-09 12:28:01.750 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/bread-pakora-mumbai-bread-pakora-with-aloo-stuffing-33400r
+[INFO ] 2025-05-09 12:28:04.796 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/thandai-3635r
+[INFO ] 2025-05-09 12:28:09.498 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/veg-crispy-crispy-fried-vegetables-310r
+[INFO ] 2025-05-09 12:28:13.478 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/ladi-pav-eggless-homemade-laadi-pav-buns-40720r
+[INFO ] 2025-05-09 12:28:26.531 [main] DietRecipeScraper - ✔️ Stored (LFV): bajra khichdi recipe | Rajasthani bajra khichdi | healthy black millet Indian khichdi |
+[INFO ] 2025-05-09 12:28:26.535 [main] DietRecipeScraper - ✔️ Stored (LF): bajra khichdi recipe | Rajasthani bajra khichdi | healthy black millet Indian khichdi |
+[INFO ] 2025-05-09 12:28:31.904 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/broccoli-and-almond-soup-protein-rich-recipe-33236r
+[INFO ] 2025-05-09 12:28:34.743 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/vegetable-grill-sandwich--mumbai-roadside-recipes--33420r
+[INFO ] 2025-05-09 12:28:37.961 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/khari-biscuit-puff-pastry-biscuits-2566r
+[INFO ] 2025-05-09 12:28:41.263 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/easy-cheesy-vegetable-pasta-2993r
+[INFO ] 2025-05-09 12:28:45.212 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/bread-pizza-in-oven-bread-pizza-in-tava-5237r
+[INFO ] 2025-05-09 12:28:49.578 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/aloo-cheese-croquettes-potato-and-cheese-rolls-32755r
+[INFO ] 2025-05-09 12:29:03.059 [main] DietRecipeScraper - ✔️ Stored (LCHF): Chinese bhel recipe | Mumbai roadside Chinese bhel |
+[INFO ] 2025-05-09 12:29:09.960 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/hara-bhara-kabab-veg-hara-bhara-kebab-32747r
+[INFO ] 2025-05-09 12:29:13.220 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/sev-2791r
+[INFO ] 2025-05-09 12:29:17.550 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/black-tea-basic-black-tea-40664r
+[INFO ] 2025-05-09 12:29:20.341 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/chinese-bhel--chinese-recipe--22758r
+[INFO ] 2025-05-09 12:29:23.154 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/paneer-in-mughlai-white-gravy-nawabi-paneer-curry-61r
+[INFO ] 2025-05-09 12:29:25.635 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/brown-bread--low-calorie-1320r
+[INFO ] 2025-05-09 12:29:28.263 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/eggless-mayonnaise--easy-homemade-mayonnaise-recipe-3254r
+[INFO ] 2025-05-09 12:29:31.476 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/sprouted-moong-salad-1350r
+[INFO ] 2025-05-09 12:29:35.222 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/paneer-masala-2404r
+[INFO ] 2025-05-09 12:29:37.685 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/rava-idli-in-microwave-4883r
+[INFO ] 2025-05-09 12:29:40.415 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/gatte-ki-kadhi-recipe-4344r
+[INFO ] 2025-05-09 12:29:43.080 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/spring-roll-wrappers-1356r
+[WARN ] 2025-05-09 12:30:07.394 [main] DietRecipeScraper - ❌ Recipe already exists in table (lchf_recipes): https://www.tarladalal.com/creamy-almond-soup-353r
+[INFO ] 2025-05-09 12:30:10.626 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/dal-dhokli--gujarat-recipe-578r
+[INFO ] 2025-05-09 12:30:13.597 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/tahini-dip-531r
+[INFO ] 2025-05-09 12:30:17.035 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/potato-bhakarwadi-523r
+[INFO ] 2025-05-09 12:30:20.400 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/lentil-and-vegetable-broth-one-dish-meal-43r
+[INFO ] 2025-05-09 12:30:23.554 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/rice-and-cheese-balls-524r
+[INFO ] 2025-05-09 12:30:26.050 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/methi-thepla-gujarat-methi-thepla-recipe-39833r
+[INFO ] 2025-05-09 12:30:28.528 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/rava-dosa-how-to-make-rava-dosa-32837r
+[INFO ] 2025-05-09 12:30:31.266 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/oats-and-vegetable-broth-7440r
+[INFO ] 2025-05-09 12:30:34.413 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/medu-vada--south-indian-recipe-32683r
+[INFO ] 2025-05-09 12:30:37.333 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/carrot-and-pineapple-salad-1772r
+[INFO ] 2025-05-09 12:30:37.335 [main] DietRecipeScraper - Processing Page 9
+[INFO ] 2025-05-09 12:30:42.128 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/masala-toast--mumbai-roadside-recipes--33418r
+[INFO ] 2025-05-09 12:30:45.301 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/boiled-pasta-how-to-boil-pasta-in-a-microwave-640r
+[INFO ] 2025-05-09 12:30:48.643 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/paneer-tikka-roll-3559r
+[INFO ] 2025-05-09 12:30:52.168 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/paneer-pulao-quick-paneer-pulao-recipe-1747r
+[INFO ] 2025-05-09 12:30:54.572 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/pindi-chole-punjabi-pindi-chana-recipe-22786r
+[INFO ] 2025-05-09 12:30:57.649 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/soya-bhurji--soya-granules-recipes-33478r
+[INFO ] 2025-05-09 12:30:59.873 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/vegetable-burger-indian-style-4092r
+[INFO ] 2025-05-09 12:31:01.936 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/amiri-khaman-gujarat-sev-khamani-recipe-550r
+[INFO ] 2025-05-09 12:31:05.271 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/chocolate-cake-1915r
+[INFO ] 2025-05-09 12:31:18.341 [main] DietRecipeScraper - ✔️ Stored (LFV): chaat masala recipe | chaat masala recipe for chaats | Indian chaat masala |
+[INFO ] 2025-05-09 12:31:18.343 [main] DietRecipeScraper - ✔️ Stored (LF): chaat masala recipe | chaat masala recipe for chaats | Indian chaat masala |
+[INFO ] 2025-05-09 12:31:24.886 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/sev-puri--chaat-recipe--2799r
+[INFO ] 2025-05-09 12:31:30.236 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/chole-punjabi-chole-masala-chole-recipe-2824r
+[INFO ] 2025-05-09 12:31:32.699 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/how-to-make-homemade-skimmed-milk-42374r
+[INFO ] 2025-05-09 12:31:35.347 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/tacos-mexican-tacos-recipe-vegetarian-tacos-1257r
+[INFO ] 2025-05-09 12:31:39.318 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/vegetable-burgers-141r
+[INFO ] 2025-05-09 12:31:42.178 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/amla-murabba-rajasthani-recipe-3903r
+[INFO ] 2025-05-09 12:31:45.015 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/batata-vada--gujarat-recipe-570r
+[INFO ] 2025-05-09 12:31:48.478 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/crispy-fried-noodles-chinese-fried-noodles-4185r
+[INFO ] 2025-05-09 12:31:50.968 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/mint-chutney--pudina-chutney-4978r
+[INFO ] 2025-05-09 12:31:53.959 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/rava-dosa-how-to-make-rava-dosa-32837r
+[INFO ] 2025-05-09 12:31:56.713 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/mixed-vegetable-cutlet-indian-veg-patty-37476r
+[INFO ] 2025-05-09 12:31:59.181 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/paneer-makhani-recipe-1494r
+[INFO ] 2025-05-09 12:32:01.892 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/masala-khakhra-whole-wheat-masala-khakhra-recipe-3560r
+[INFO ] 2025-05-09 12:32:04.160 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/chapati-healthy-chapati-for-weight-loss-7608r
+[INFO ] 2025-05-09 12:32:06.788 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/spring-roll-wrappers-1356r
+[WARN ] 2025-05-09 12:32:30.626 [main] DietRecipeScraper - ❌ Recipe already exists in table (lchf_recipes): https://www.tarladalal.com/creamy-almond-soup-353r
+[INFO ] 2025-05-09 12:32:34.095 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/dal-dhokli--gujarat-recipe-578r
+[INFO ] 2025-05-09 12:32:36.808 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/tahini-dip-531r
+[INFO ] 2025-05-09 12:32:40.240 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/potato-bhakarwadi-523r
+[INFO ] 2025-05-09 12:32:44.961 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/lentil-and-vegetable-broth-one-dish-meal-43r
+[INFO ] 2025-05-09 12:32:48.873 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/rice-and-cheese-balls-524r
+[INFO ] 2025-05-09 12:32:53.055 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/methi-thepla-gujarat-methi-thepla-recipe-39833r
+[INFO ] 2025-05-09 12:32:56.513 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/rava-dosa-how-to-make-rava-dosa-32837r
+[INFO ] 2025-05-09 12:33:00.085 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/oats-and-vegetable-broth-7440r
+[INFO ] 2025-05-09 12:33:04.114 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/medu-vada--south-indian-recipe-32683r
+[INFO ] 2025-05-09 12:33:10.760 [main] DietRecipeScraper - ❌ Skipped (no matching filter): https://www.tarladalal.com/carrot-and-pineapple-salad-1772r
+[INFO ] 2025-05-09 12:33:10.761 [main] DietRecipeScraper - Processing Page 10
