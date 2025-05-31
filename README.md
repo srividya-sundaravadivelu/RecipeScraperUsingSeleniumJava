@@ -48,9 +48,11 @@ private static final String DB_PASSWORD = "your_password";
 ```bash
 mvn clean install
 ```
-4. **Run the scraper**
+4. **Run the scraper**   
 Run main() in TarlaDalalScraper.java
-
+From IDE:
+Open the project in Eclipse or IntelliJ
+Right-click on TarlaDalalScraper.java and choose Run -> Java Application
 ---
 ## ⚠️ Disclaimer
 This project is for educational purposes only. Frequent scraping can place an unexpected load on websites and may violate their terms of use. Please respect the site's robots.txt and usage policy.
